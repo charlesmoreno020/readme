@@ -5,7 +5,6 @@ public class Task2 {
     public static void main(String[] args) {
      
         char H = 'H';
-        int i = 3110;
         int one = 1;
         byte zero = 0;
         float f= 2.0f;

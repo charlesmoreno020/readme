@@ -11,10 +11,23 @@ public class OperatorLesson {
         a++;
         b++;
         --a;
+
+        String name = "Charles";
+
         System.out.println(--a + ++a); // ++
         System.out.println(a++);
         System.out.println(c + 1);
-        System.out.println(d);
+        System.out.println(name );
+
+       System.out.println(Double.MAX_VALUE);
+
+        
+
+        
+
+
     }
+
+
     
 }
