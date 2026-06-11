@@ -18,7 +18,7 @@ public class IfSwitchStatementLesson {
             System.out.println("Good Morning");
         else
             System.out.println("Good Afternoon");
-        System.out.println("Kumain kana ba?2");
+        System.out.println("Kumain kana ba?");
         
 
         if(hourOfDay<11)

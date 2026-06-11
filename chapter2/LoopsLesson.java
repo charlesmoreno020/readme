@@ -5,7 +5,11 @@ public class LoopsLesson {
         int x=0;
         while(x<5)
             System.out.println(x++);
-        System.out.println("endofprogram");
-        
+
+    System.out.println("endofprogram");
+
+
+    
+
     }
 }
